@@ -1,3 +1,4 @@
+<img width="1239" alt="Screenshot 2025-05-11 at 21 21 09" src="https://github.com/user-attachments/assets/4e1806c2-f5f9-47df-8900-d0306008c70f" />
 # Will You Be My Valentine? 💌
 
 This project is designed to be an interactive webpage to ask someone to be your Valentine. Please use this code as inspiration and avoid simply copying it without understanding or giving credit.
